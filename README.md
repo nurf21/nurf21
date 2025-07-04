@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend with Go<br>🌱 I’m currently learning Frontend for beginner
+Hi 👋, I'm Nurfauzan  
+Full stack developer — powered by coffee & curiosity
+
+🌱 I’m currently learning **React**
 
 
 ## 🌐 Socials:
