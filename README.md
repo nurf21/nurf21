@@ -2,7 +2,7 @@
 Hi 👋, I'm Nurfauzan  
 Full stack developer — powered by coffee & curiosity
 
-🌱 I’m currently learning **React**
+🌱 I’m currently learning **Tailwind CSS**
 
 
 ## 🌐 Socials:
