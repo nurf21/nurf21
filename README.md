@@ -2,7 +2,7 @@
 Hi 👋, I'm Nurfauzan  
 Full stack developer — powered by coffee & curiosity
 
-🌱 I’m currently learning **Tailwind CSS**
+🌱 I’m currently learning **PostgreSQL**
 
 
 ## 🌐 Socials:
